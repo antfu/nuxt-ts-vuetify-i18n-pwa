@@ -12,22 +12,22 @@
     "lint": "eslint --ext .ts,.js,.vue --ignore-path .gitignore . --fix"
   },
   "dependencies": {
-    "@nuxtjs/pwa": "^3.0.0-0",
-    "@vue/composition-api": "^0.3.4",
-    "nuxt": "^2.0.0",
-    "vue-i18n": "^8.15.1"
+    "@nuxtjs/pwa": "3.0.0-beta.19",
+    "@vue/composition-api": "0.3.4",
+    "nuxt": "2.10.2",
+    "vue-i18n": "8.15.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config-vue": "^0.2.10",
-    "@nuxt/typescript-build": "^0.5.0",
-    "@nuxtjs/eslint-module": "^1.0.0",
-    "@nuxtjs/vuetify": "^1.0.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^6.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2",
-    "js-yaml-loader": "^1.2.2",
-    "nuxt-property-decorator": "^2.5.0",
-    "pug": "^2.0.4",
-    "pug-plain-loader": "^1.0.0"
+    "@antfu/eslint-config-vue": "0.2.10",
+    "@nuxt/typescript-build": "0.5.0",
+    "@nuxtjs/eslint-module": "1.1.0",
+    "@nuxtjs/vuetify": "1.9.1",
+    "babel-eslint": "10.0.3",
+    "eslint": "6.7.2",
+    "eslint-plugin-nuxt": "0.5.0",
+    "js-yaml-loader": "1.2.2",
+    "nuxt-property-decorator": "2.5.0",
+    "pug": "2.0.4",
+    "pug-plain-loader": "1.0.0"
   }
 }
