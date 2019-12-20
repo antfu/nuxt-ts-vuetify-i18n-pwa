@@ -24,7 +24,7 @@
     "@nuxtjs/eslint-module": "1.1.0",
     "@nuxtjs/vuetify": "1.9.1",
     "babel-eslint": "10.0.3",
-    "eslint": "6.7.2",
+    "eslint": "6.8.0",
     "eslint-plugin-nuxt": "0.5.0",
     "js-yaml-loader": "1.2.2",
     "nuxt-property-decorator": "2.5.0",
