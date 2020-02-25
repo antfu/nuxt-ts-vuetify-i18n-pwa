@@ -15,7 +15,7 @@
     "@nuxtjs/pwa": "3.0.0-beta.20",
     "@vue/composition-api": "0.4.0",
     "nuxt": "2.11.0",
-    "vue-i18n": "8.15.3"
+    "vue-i18n": "8.15.4"
   },
   "devDependencies": {
     "@antfu/eslint-config-vue": "0.2.11",
