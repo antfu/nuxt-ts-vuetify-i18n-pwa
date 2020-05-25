@@ -28,7 +28,7 @@
     "eslint-plugin-nuxt": "1.0.0",
     "js-yaml-loader": "1.2.2",
     "nuxt-property-decorator": "2.7.2",
-    "pug": "2.0.4",
+    "pug": "3.0.0",
     "pug-plain-loader": "1.0.0"
   }
 }
