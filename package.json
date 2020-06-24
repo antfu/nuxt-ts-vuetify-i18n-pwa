@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "3.0.0-beta.20",
-    "@vue/composition-api": "0.6.6",
+    "@vue/composition-api": "0.6.7",
     "nuxt": "2.13.1",
     "vue-i18n": "8.18.2"
   },
